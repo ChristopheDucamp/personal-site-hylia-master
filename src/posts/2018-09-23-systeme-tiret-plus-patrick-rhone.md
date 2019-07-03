@@ -12,12 +12,14 @@ Seul le lien original fait référence.
 
 Ci-dessous une légende pour les métadonnées sur les notes
  
-     -  élément action (non fait)
-     +  élément action (fait)
-    -> en attente (c.-à-d. pour une autre action)
-    <- délégué 
-    △  point data 
-    ○  déplacé ou reporté sur une autre liste
+ ```bash
+ -  élément action (non fait)
+ +  élément action (fait)
+ -> en attente (c.-à-d. pour une autre action)
+ <- délégué 
+ △  point data 
+ ○  déplacé ou reporté sur une autre liste
+```
 
 ##  Historique
 

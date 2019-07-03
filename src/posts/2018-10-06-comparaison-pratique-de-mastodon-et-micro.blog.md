@@ -2,11 +2,11 @@
 title: 'Une Comparaison Pratique de Mastodon et Micro.blog'
 date: '2018-10-06'
 tags: [microblog, twitter, mastodon, traduction]
-permalink: 'comparaison-mastodon-micro.blog'
+slug: 'comparaison-mastodon-micro.blog'
     
 ---
 
-> Cela fait plus d'un semestre que j'étudie Micro.blog et Mastodon, deux alternatives indieweb à Twitter. David Anson a eu le mérite de publier un tableau comparatif sur github. Seul le [lien original fait référence](https://github.com/DavidAnson/Twitter-Alternatives/blob/master/README.md).
+> Plus d'un semestre que j'étudie Micro.blog et Mastodon, deux alternatives indieweb à Twitter. David Anson a eu le mérite de publier un tableau comparatif sur github. Seul le [lien original fait référence](https://github.com/DavidAnson/Twitter-Alternatives/blob/master/README.md).
 
 Nous sommes nombreux à [chercher des alternatives à Twitter](https://birchtree.me/blog/the-struggle-for-twitter-alternatives/) et il existe deux services qui sortent du lot : **micro.blog** et **Mastodon**.
 

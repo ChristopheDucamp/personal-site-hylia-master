@@ -2,8 +2,9 @@
 date: '2018-10-25'
 title: 'Identité pour le Web Décentralisé avec IndieAuth'
 tags: [web, identité, indieauth, indieweb]
-permalink: 'identite-web-avec-indieauth'
 ---
+
+Note permalink: 'identite-web-avec-indieauth'
 
 Ceci est une traduction de l'article "[Identity for the Decentralized Web with IndieAuth](https://hacks.mozilla.org/2018/10/dweb-identity-for-the-decentralized-web-with-indieauth/)" publié le 24 octobre 2018 par [Aaron Parecki](https://aaronparecki.com/) sur [Hacks.Mozilla.org (#Dweb)](https://hacks.mozilla.org/category/dweb/).
 

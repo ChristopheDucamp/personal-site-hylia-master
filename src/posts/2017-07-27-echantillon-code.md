@@ -1,5 +1,5 @@
 ---
-title: Échantillon de code
+title: Afficher un échantillon de code
 subtitle: Utiliser Hugo pour la mise en surbrillance
 date: 2017-07-27
 tags: ["exemple", "code"]
