@@ -2,8 +2,8 @@
 date: '2018-09-23'
 title: 'Le système Tiret/Plus de Patrick Rhone'
 tags: [gtd, organisation,todo]
-slug: 'tiret-plus' 
 ---
+slug: 'tiret-plus'
 
 Cette traduction est extraite du [Journal de Patrick Rhone](http://patrickrhone.com/dashplus/ "Permalien vers patrickrhone / journal » The Dash/Plus System"). 
 Seul le lien original fait référence.
