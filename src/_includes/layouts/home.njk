@@ -1,0 +1,30 @@
+{% extends 'layouts/base.njk' %}
+{% set pageType = 'Homepage' %}
+
+{# Intro content #}
+{% set introHeading = title %}
+{% set introSummary %}
+  {{ content | safe }}
+  <p>{{ site.availability }}</p>
+  <p>
+    <a class="[ button ] [ weight-bold text-500 ]" href="mailto:christophe@ducamp.m?subject=Hola 👋 J'adorerais vous louer !">Louez-moi</a>
+  <p>
+{% endset %}
+
+{# Post list content #}
+{% set postListHeading = postsHeading %}
+{% set postListItems = collections.postFeed %}
+
+{# Archive link #}
+{% if postListItems.length < collections.posts.length %} 
+  {% set paginationNextText = archiveButtonText %}
+  {% set paginationNextUrl = '/writing' %}
+{% endif %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    {% include "partials/components/intro.njk" %}
+    {% include "partials/components/post-list.njk" %}
+    {% include "partials/components/pagination.njk" %}
+  </main>
+{% endblock %}

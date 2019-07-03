@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "text": "Accueil",
+      "url": "/",
+      "rel": null
+    },
+    {
+      "text": "Écriture",
+      "url": "/writing/",
+      "rel": null
+    },
+    {
+      "text": "Micro.blog",
+      "url": "//microblog.ducamp.me",
+      "rel": "external"
+    },
+    {
+      "text": "Twitter",
+      "url": "//twitter.com/xtof_party",
+      "rel": "me"
+    },
+    {
+      "text": "CodePen",
+      "url": "//codepen.io/xtof-party",
+      "rel": null
+    },
+    {
+      "text": "GitHub",
+      "url": "//github.com/ChristopheDucamp",
+      "rel": "me"
+    }
+  ]
+}
