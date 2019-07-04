@@ -12,8 +12,9 @@ subtitle: Promenade dans les Interfaces pour déposer mon flux de travail Photo 
 author: xtof
 header-img: uploads/2017-015-JATP-Kenny-Barron-2.jpg
 ---
+*Promenade dans les Interfaces pour déposer mon flux de travail Photo sur la JAMstack*
 
-Jolie promenade [hier](http://ducamp.me/2017-014) à Auvers-sur-Oise sur les traces de Vincent Van Gogh. Je me suis simplement *placé dans les yeux de Barbara* avec un simple Canon 50 mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. Je viens de [poser sur Flickr quelques photos stimulantes](https://www.flickr.com/search/?sort=date-taken-desc&amp;safe_search=1&amp;tags=auverssuroise&amp;user_id=37996578526%40N01&amp;view_all=1) afin de préparer l'organisation de quelques promenades photographiques au Printemps.
+Jolie promenade [hier](http://ducamp.me/2017-014) à Auvers-sur-Oise sur les traces de Vincent Van Gogh. Je me suis simplement *placé dans les yeux de Barbara* avec un simple Canon 50 mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. Je viens de [poser sur Flickr quelques photos stimulantes](https://www.flickr.com/search/?sort=date-taken-desc&amp;safe_search=1&amp;tags=auverssuroise&amp;user_id=37996578526%40N01&amp;view_all=1) afin d'organiser quelques promenades photographiques au Printemps.
 
 ## Démarrage avec un PhotoFlow basé sur un export Adobe LightRoom et SiteLeaf
 
@@ -37,8 +38,8 @@ Plus bas, je me contenterai donc de déposer une sélection de quelques photos p
 
 Essai de g&eacute;n&eacute;ration de pr&eacute;-visualisation SiteLeaf… Erreur, [Siteleaf](https://www.siteleaf.com/) me r&eacute;clame de passer sur un plan payant pour augmenter mon quota de stockage limit&eacute; &agrave; 100Mo sur le plan gratuit. Après paiement, le "build" est refus&eacute; sous pr&eacute;texte d'absence d'une gem de Jekyll "jekyll-paginate" d&eacute;j&agrave; install&eacute;e…
 
-```
-`Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `gems: [jekyll-paginate]` in your configuration file. (RuntimeError)`
+```bash
+Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `gems: [jekyll-paginate]` in your configuration file. (RuntimeError)
 ```
 &Eacute;trange car le build fonctionne ailleurs. Grosse fatigue. Mais rien de grave à cette heure : 
 
