@@ -21,7 +21,7 @@ Tombé ce matin sur ce post de <span class="h-card" rel="met colleague muse">[Je
 
 > [Resilient Web Design](https://resilientwebdesign.com/) is a short book. It’s between sixteen and seventeen megawords long. You could read the whole thing in a couple of hours. Or—because the book has seven chapters—you could take fifteen to twenty minutes out of a day to read one chapter and you’d have read the whole thing done in a week.(...)
 
-![Send to Kindle 2016-12-14 13-51-00.png](/img/Send%20to%20Kindle%202016-12-14%2013-51-00.png)
+![Send to Kindle](/images/send-to-kindle.png "Send to Kindle")
 
 Un wook envoyé sur ma tablette. Grave erreur : le design pdf n'est pas responsive, et la taille de la typo est bien petite pour mes yeux de vieillard.  
 
@@ -29,4 +29,4 @@ Retour sur mon téléphone. Tapé l'URL canonique **[https://resilientwebdesign.
 
 Très heureux aujourd'hui, d'avoir placé le cerveau de Jeremy dans ma poche ! 
 
-![resilient-web-design](/img/resilient-web-design-jeremy-keith.png)
+![resilient-web-design](/images/resilient-web-design-jeremy-keith.png)
