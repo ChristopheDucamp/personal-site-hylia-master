@@ -14,7 +14,11 @@ Author: Christophe Ducamp
 
 ![remington](/images/remingtontypewriter.jpg "Remington )
 
-*Reparti en séance d'essais de quelques éditeurs de texte pour écrire en Markdown. À cette heure, je reste fidèle à **IAWriter** pour macOS et iOS. Prêt à changer avec l'aide des recommandations de canion.me publiées le  2019-06-19 : <https://canion.me/so-many-markdown-editor-options>.
+*Reparti en séance d'essais de quelques éditeurs de texte pour écrire en Markdown. À cette heure, je reste fidèle à **IAWriter** pour macOS et iOS. Prêt à changer avec l'aide des recommandations de 
+- canion.me <https://canion.me/so-many-markdown-editor-options>, 
+- et Brett Terpstra <https://brettterpstra.com/ios-text-editors/> pour son tableau comparatif des éditeurs iOS
+
+
 
 *Cet article original de <span class="p-author h-card">[Robby Ingebretsen][2]</span> publié le <time class="dt-published" value="2013-06-28">28 juin 2013</time> m'a bien éclairé sur ce langage. Comme à l'habitude, seul le [lien original fait référence][3].** 
 
